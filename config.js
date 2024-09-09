@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 //─────「 NUMEROS - OWNERS 」─────`*
 
 global.owner = [
-  ['5491126788746', 'JTxs', true],
-  ['51913091648', 'Gabriel Curi', true],
+  ['5491138531331', 'Luly Dzn ✿', true],
+  ['56983298345', 'Mxz ✿', true],
   ['']
 
 ]
@@ -24,12 +24,12 @@ global.prems = []
 //─────「 STICKERS | NOMBRES | CANAL 」─────`*
 
 global.packname = ``
-global.author = '@ 2024 JTxs | All rigths reserved'
+global.author = '@ 2024  | All rigths reserved'
 
 global.botname = 'Sylpha - Bot'
 
-global.name_canal = '@ 2024 JTxs | All rigths reserved'
-global.id_canal = '120363274577422945@newsletter'
+global.name_canal = '@ 2024 | All rigths reserved'
+global.id_canal = ''
 
 //─────「 IMAGENES 」─────`*
 
@@ -38,7 +38,7 @@ global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
 
 //─────「 OTROS 」─────`*
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5491138531331-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: botname, orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 
 //─────「 LINKS 」─────`*
 
