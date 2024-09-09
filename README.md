@@ -1,4 +1,4 @@
-<h1 align="center">♡ 𝚂𝚢𝚕𝚙𝚑𝚊-𝙼𝙳 ♡</h1>
+<h1 align="center">♡ luly-dzn ♡</h1>
 <br>
 <div align="center">
 
@@ -24,9 +24,10 @@
 |  Funciones y comandos  |                                           Sip |
 | :---------------------------------------------: | :-----------: |
 | Crea stickers|✅|
-| Bienvenida automática|❌|
+| Bienvenida automática|✅|
 | Modo Publico/Privado|✅|
 | Descarga de música/videos|✅|
+| Lista de versus 4vs4/scrim|✅|
 | Chat-Bot|⌛|
 | Más funciones en adelante|♻️|
 
