@@ -28,6 +28,8 @@
 | Modo Publico/Privado|✅|
 | Descarga de música/videos|✅|
 | Lista de versus 4vs4/scrim|✅|
+| cerrar y abrir el grupo|✅|
+
 | Chat-Bot|⌛|
 | Más funciones en adelante|♻️|
 
